@@ -1,0 +1,5 @@
+- [ ] write file to hex string (256 bytes into 512 char hex string) serializer
+- [ ] write hex string to file deserializer
+- [ ] write chunker
+- [ ] write chunker tests
+- [ ] <!
